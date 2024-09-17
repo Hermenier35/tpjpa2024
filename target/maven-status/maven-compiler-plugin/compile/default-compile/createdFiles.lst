@@ -1,0 +1,9 @@
+jpa\JpaTest.class
+models\Quizz.class
+jpa\EntityManagerHelper.class
+models\Question.class
+models\Kahoot.class
+models\KahootResponses.class
+dao\KahootDAO.class
+models\Response.class
+models\User.class
